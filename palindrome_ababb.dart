@@ -29,7 +29,7 @@ class Solution {
 
 void main() {
   Solution solution = Solution();
-  String inputString = "abb"; 
+  String inputString = "malayalah"; 
   int result = solution.removePalindromeSub(inputString);
   print("Result: $result");
 }
